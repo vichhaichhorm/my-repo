@@ -11,8 +11,6 @@ public class Main {
       String name = scanner.next();
       System.out.print("Enter Gender: ");
       String gender = scanner.next();
-      System.out.print("Enter Age: ");
-      int age = scanner.nextInt();
       System.out.print("Enter Your Class: ");
       String classes = scanner.next();
       System.out.print("Enter Your Course: ");
@@ -25,7 +23,6 @@ public class Main {
       System.out.println("    ID: " +id);
       System.out.println("  Name: " +name);
       System.out.println("Gender: " +gender);
-      System.out.println("   Age: " +age);
       System.out.println(" Class: " +classes);
       System.out.println("Course: " +course);
       System.out.println(" Score: " +score);
