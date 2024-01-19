@@ -27,5 +27,7 @@ public class Main {
       System.out.println("Course: " +course);
       System.out.println(" Score: " +score);
 
+      System.out.println("merge test");
+
    }
 }
